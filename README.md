@@ -4,17 +4,18 @@
 - https://historiadogrenal.com/
 
 ## Frontend
-- Vercel
-- React
-- Next.js
-- Styled Components
 - Repository: https://github.com/nandotess/historia-do-grenal-frontend
+- [Vercel](https://vercel.com/) (cloud hosting)
+- [React](https://reactjs.org/)
+- [Next.js](https://nextjs.org/) (React Framework)
+- [Styled Components](https://styled-components.com/)
 
-## Backend
-- Sanity.io
+## Backend/Database
 - Repository: [private]
+- [Sanity.io](https://www.sanity.io/) (headless database)
+- [Node.js](https://www.sanity.io/docs/content-modelling) (content modeling)
 
 ## Data Generator
-- Node.js
-- Sanity.io
 - Repository: [private]
+- [Sanity.io](https://www.sanity.io/) (headless database)
+- Node.js
