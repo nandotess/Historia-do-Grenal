@@ -12,8 +12,9 @@
 
 ## Backend
 - Sanity.io
+- Repository: [private]
 
 ## Data Generator
 - Node.js
 - Sanity.io
-- Repository: https://github.com/nandotess/historia-do-grenal-data-generator
+- Repository: [private]
