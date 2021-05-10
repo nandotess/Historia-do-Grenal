@@ -13,7 +13,7 @@
 ## Backend/Database
 - Repository: [private]
 - [Sanity.io](https://www.sanity.io/) (headless database)
-- [Node.js](https://www.sanity.io/docs/content-modelling) (content modeling)
+- [Node.js](https://www.sanity.io/docs/content-modelling) (content modelling)
 
 ## Data Generator
 - Repository: [private]
