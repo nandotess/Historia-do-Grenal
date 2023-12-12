@@ -1,6 +1,6 @@
 # História do Grenal
 
-## Beta site
+## Site
 - https://historiadogrenal.com/
 
 ## Frontend
@@ -8,6 +8,7 @@
 - [Vercel](https://vercel.com/) (cloud hosting)
 - [React](https://reactjs.org/)
 - [Next.js](https://nextjs.org/) (React Framework)
+- [Algolia](https://www.algolia.com/) (Search)
 - [Styled Components](https://styled-components.com/)
 
 ## Backend/Database
